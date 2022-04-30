@@ -1,8 +1,8 @@
 <div align="center">
   <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-  <p align="center">
+  <h2 align="center">
     Frontend developer from Turkey
-  </p>
+  </h2>
   <div align="center">
     <img src="https://lanyard.cnrad.dev/api/230017748242137108"
     [![Discord Presence](https://lanyard.cnrad.dev/api/230017748242137108)](https://discord.com/users/230017748242137108)
