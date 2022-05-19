@@ -25,6 +25,7 @@
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="Bootsrap" src="https://img.shields.io/badge/Bootstrap-%231272B6.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </div>
     <br>
     <br>
