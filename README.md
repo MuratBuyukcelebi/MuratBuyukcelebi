@@ -1,4 +1,4 @@
-### .init
+### .about
 Hi, I'm Murat Büyükçelebi. I have been working on UI development for 2 years.
 
 ### .contact
